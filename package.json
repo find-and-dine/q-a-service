@@ -44,6 +44,6 @@
     "eslint-plugin-react-hooks": "^1.7.0"
   },
   "jest": {
-    "setupFilesAfterEnv": ["<rootDir>src/setupTests.js"]
+    "setupFilesAfterEnv": ["<rootDir>testing/setupTests.js"]
   }
 }
